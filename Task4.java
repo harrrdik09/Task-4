@@ -25,9 +25,9 @@ public class Task4 {
                         fw.write(productName + " " + price +"\n");
 
 
-                    System.out.println("Data Come Succesfuly");
+                  
                 }
-
+              System.out.println("Data Come Succesfuly");
             }
 
 
@@ -39,3 +39,4 @@ public class Task4 {
 
     }
 }
+
